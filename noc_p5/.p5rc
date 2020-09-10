@@ -1,0 +1,10 @@
+{
+  "name": "noc_p5",
+  "projects": [
+    "noc_01.1_random_walker",
+    "noc_01.2_gausian",
+    "noc_01.3_vectors",
+    "noc_01_ecosystem",
+    "noc_02.1_forces"
+  ]
+}
